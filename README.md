@@ -1,0 +1,1 @@
+Mini game rank server in go. Rank sort supported by redis.
